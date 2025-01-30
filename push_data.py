@@ -8,7 +8,7 @@ print(MONGO_DB_URL)
 
 
 import certifi
-ca=certifi.where()
+ca=certifi.where() ##certificate authorities
 import pandas as pd
 import numpy as np
 import pymongo
