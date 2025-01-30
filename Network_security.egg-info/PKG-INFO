@@ -6,7 +6,6 @@ Author-email: n210204@rguktn.ac.in
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: pymongo[srv]==3.6
 Dynamic: author
